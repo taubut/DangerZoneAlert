@@ -1,0 +1,7 @@
+## Interface: 11404
+## Title: Danger Zone Alert
+## Notes: Warns players when they enter a potentially dangerous zone based on their level.
+## Author: Srumar
+## Version: v0.2
+
+DangerZoneAlert.lua
